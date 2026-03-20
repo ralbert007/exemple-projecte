@@ -2,5 +2,5 @@
 
 - Canvi A
 - Canvi B
-- canvi C
-- canvi D
+- Canvi C
+- Canvi D
